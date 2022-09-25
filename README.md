@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julkar Naeem.
-- 👀 I’m interested in AI.
+- 👀 I’m interested on AI.
 - 🌱 I’m currently studying CSE undergraduate at Bangladesh University of Business & Technology (BUBT).
 - 💞️ I’m looking to collaborate projects based on AI.
 - 📫 How to reach me via mail: julkarnaeem6@gmail.com
