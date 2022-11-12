@@ -1,7 +1,7 @@
 
-👋 Hi, I’m Julkar Naeem
-👀 I’m interested in ... Artificial Intelegience ML,DL,CNN,Apps Development,Robotics
-🌱 I’m currently learning ...Java ,Python ,Android Apps Development
+👋 Hi, Myself Julkar Naeem
+👀 I’m interested in Artificial Intelegience ML,DL,CNN,Apps Development,Robotics.
+🌱 I’m currently learning ...Java ,Python ,Android Apps Development.
 📫 How to reach me email: julkarnaeem6@gmail.com
 📫 How to reach me facebook: https://www.facebook.com/profile.php?id=100076911201459
 📫 How to reach me website: 
