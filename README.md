@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julkar Naeem
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently doing Bachelor in Computer Science at BUBT
+- 🌱 I'm now pursuing a Bachelor of Science in Computer Science at BUBT.
 - 💞️ I’m looking to collaborate on AI project
 - 📫 How to reach me via mail: julkarnaeem6@gmail.com
 
